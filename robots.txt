@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://auviecuoka.jaredgeller.com/sitemap.xml
